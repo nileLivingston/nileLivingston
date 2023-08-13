@@ -1,5 +1,5 @@
 # hello, i'm nile
 
-- Associate Director, Front-End Engineering at [Nebo Agency](https://www.neboagency.com/)
+- Senior User Interface Engineer @ [Salesloft](https://salesloft.com/)
 - ATL native / cat dad / expert dilettante
 - Here's my [website](http://helloimnile.com/).
